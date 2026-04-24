@@ -1,4 +1,4 @@
-# Shadow LLM
+# Shadow LLeX
 
 Do you know what composes an LLM? Yeah me neither, that's why I had this thing built with the help of Claude.AI. 97% Vibe Coding, 2% Empirical Science, 1% hot gas — it extracts all the model's layers, embeddings, attention heads, etc. into a clean sorted archive for storage, analysis of model behaviors, or whatever else you can think of to do with it. Part of a larger pipeline still in development which will be announced closer to release.
 
@@ -6,7 +6,7 @@ Do you know what composes an LLM? Yeah me neither, that's why I had this thing b
 
 ## What It Actually Does
 
-Shadow LLM decomposes a GGUF model into its fundamental information units, classifies each one by functional role, and stores them in a structured library using lossless zstd compression. The library can then be used to reassemble the original model exactly, or (experimentally) compose new models from components across multiple sources.
+Shadow LLeX decomposes a GGUF model into its fundamental information units, classifies each one by functional role, and stores them in a structured library using lossless zstd compression. The library can then be used to reassemble the original model exactly, or (experimentally) compose new models from components across multiple sources.
 
 **The pipeline:**
 ```
