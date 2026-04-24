@@ -1,5 +1,6 @@
 # Shadow LLeX
 (Formerly ShadowLLM - Apparently there's other ShadowLLM repos and this one's mostly about eXtraction, so, rename.)
+
 Do you know what composes an LLM? Yeah me neither, that's why I had this thing built with the help of Claude.AI. 97% Vibe Coding, 2% Empirical Science, 1% hot gas — it extracts all the model's layers, embeddings, attention heads, etc. into a clean sorted archive for storage, analysis of model behaviors, or whatever else you can think of to do with it. Part of a larger pipeline still in development which will be announced closer to release.
 
 ---
