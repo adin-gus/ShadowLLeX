@@ -123,7 +123,7 @@ shadow_toolbox.bat
 
 **Concept and direction:** Adin Gus ([@adin-gus](https://github.com/adin-gus))
 
-**Architecture, implementation, and debugging:** Claude Sonnet 4.6 (Anthropic) — written interactively over several sessions. The theoretical framework (quaternion tier mapping, Diamond Haystack, Shadow LLM decomposition concept) emerged from collaborative development. Claude wrote the majority of the code; Andrew specified the problems, validated the outputs, and made the architectural decisions.
+**Architecture, implementation, and debugging:** Claude Sonnet 4.6 (Anthropic) — written interactively over several sessions. The theoretical framework (quaternion tier mapping, Diamond Haystack, Shadow LLM decomposition concept) emerged from collaborative development. Claude wrote the majority of the code; Adin Gus specified the problems, validated the outputs, and made the architectural decisions.
 
 This is what "vibe coding" looks like when you push it far enough — a novel approach to LLM decomposition that neither party would have arrived at alone.
 
